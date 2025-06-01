@@ -61,8 +61,6 @@ Gracias a esta plataforma, Asenersa optimiza tiempos administrativos, reduce err
   - JavaScript (vanilla) para manejo de checkboxes, impresión y validaciones.  
 - **Base de Datos**:  
   - MariaDB / MySQL (estructura relacional con tablas: `empleados`, `vacaciones_tomadas`, `productos`, `facturas`, `factura_detalles`, `ordenes_compra`, `orden_compra_detalles`, `usuarios`).  
-- **Librerías Adicionales**:  
-  - [python-pptx](https://python-pptx.readthedocs.io/) (opcional, para generación de presentaciones).  
 
 ---
 
